@@ -14,6 +14,7 @@ First Pass:
 Second Pass:
 - Generates absolute address by relocating the relative addresses and resolving external references via the base addresses and symbol table.
 
+****
 
 To compile the file, run the following on your terminal:
 * ```javac Linker.java```
