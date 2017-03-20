@@ -1,10 +1,10 @@
 # Scheduler
 *****
 Java implementation of the following four scheduling algorithms:
-*Uniprogrammed
-*First In First Out
-*Round Robin
-*Shortest Job First
+* Uniprogrammed
+* First In First Out
+* Round Robin
+* Shortest Job First
 
 After running on the given processes, the program prints the following summary data for each algorithm:
 * Finishing time (i.e., when all the processes have finished).
